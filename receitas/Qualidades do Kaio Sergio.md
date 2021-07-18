@@ -19,7 +19,11 @@ linha de cima 3 hashtags + texto
 
 desse jeito
 
+`kaio sergio de carvalho souza`
 
+| qualidades | defeitos |
+| ---------- | -------- |
+| BACANA     | XAROPE   |
 
 
 
